@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">I'm Computer Science sudent with big passion for Web Development</h3>
-<br>
+<br><br>
+
+<h4>A little about me:</h4>
 
 - 💻 I mostly develop web apps using MERN Stack
 - 📜 I’m currently studing Computer Science with Cloud Specialization
@@ -8,7 +10,7 @@
 - 📖 I’m a big fan of non-fiction books
 - 🔭 I’m currently working on [optymization of madzioland project](https://www.magdalena-pierzchala.com)
 
-<br>
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
