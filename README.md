@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">I'm Computer Science sudent with big passion for Web Technologies</h3>
+<h3 align="center">I'm Computer Science sudent with big passion for Web Development</h3>
 
 
 - 💻 I mostly develop web apps using MERN Stack
