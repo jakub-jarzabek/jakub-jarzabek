@@ -40,7 +40,7 @@ ___
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jakub-jarzabek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-jarzabek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jakub-jarzabek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jakub-jarzabek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19312278/jakub-jarząbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jakub-jarzabek" height="30" width="40" /></a>
 <a href="https://instagram.com/kubitssu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubitssu_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/qbeetsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qbeetsu" height="30" width="40" /></a>
 </p>
